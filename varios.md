@@ -10,3 +10,5 @@
 
 - R-Ladies Chile - [Club de lectura Happy Git with R, sesión 6 (29 julio 2020)](https://github.com/sporella/clublectura6) 
 
+- Certificación de Rstudio -[Material de clase sobre funciones pivot](https://github.com/sporella/pivot)
+
