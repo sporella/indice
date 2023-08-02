@@ -1,4 +1,6 @@
-# Repositorios sobr etemas varios
+# Repositorios sobre temas varios
+
+- SQL Desde Cero - [Taller de SQL para Egresados Matemáticas UC](https://github.com/sporella/taller_sql)
 
 - R-Ladies Chile - [Minitaller sobre Perderle el Miedo a la Terminal](https://sporella.github.io/terminal_miedo/)
 
