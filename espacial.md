@@ -1,5 +1,6 @@
 # Repositorios sobre datos espaciales
 
+- Datapalooza - [Introducción al Análisis de Datos Geoespaciales con python](https://github.com/sporella/datapalooza_datos_geoespaciales)
 
 - PyCon Chile 2022 - [Haciendo mapas con Python](https://github.com/sporella/mapas_con_python)
 
